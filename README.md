@@ -39,6 +39,14 @@
 * Insecticide resistance is known in cereal aphids, like in the UK. This was the primary focus in Max's PhD. Spraying didn't increase resistance across the 50 fields studied. Resistance has not gone up post-neonicotinoids.
 * Are resistant aphids super spreaders for BYDV? No... Infected aphids move differently to uninfected aphids. No impact on transmission or fecundity.
 * New project called ELEVATE with UCD. This aims to link vector and virus strain with virus transmission and yield loss. Develop predictive models for yield loss. This is under current and future climate conditions.
-* Fingerprinting aphid colonies prior to use in projects.
+* Fingerprinting aphid colonies prior to their use in projects.
 * BYDV-MAV in all samples, BYDV-PAS and -PAV in 30% but always co-infection in the field. Resources available on GenBank.
-* Developing meta-genomic methods to identify aphid pests (approx. 20). Designing new primers and testing through mock-communities. This is a part of the RapID-PEST project. 
+* Developing meta-genomic methods to identify aphid pests (approx. 20). Designing new primers and testing through mock-communities. This is a part of the RapID-PEST project.
+
+## Daniel Leybourne (Liverpool)
+* Look at systems from an ecological perspective. Aphids > crops > virus > environmental change > herbivore diversity.
+* A new review looking at risks to cereal crops. Link [here](https://ecoevorxiv.org/repository/view/6628/).
+* Higher transmission efficiency depending on aphid species and crop variety. This is all qualitative (preliminary) data but will be followed up with quantitative data.
+* Have also looked at whether all aphid vector populations equal. Naive way to look at insect pest populations is to assume that they are all the same. Endosymbiont species have an effect, but also endosymbiont strain. Clonal lineage may also have an effect - variable rates of BYDV transmission, particularly for BYDV-PAV. This appears to be the primary focus of Daniels' work at the moment. Recent work indicates that this is not true for R. padi and BYDV-MAV, but is for BYDV-PAV.
+* Maintain a R. padi BYDV-PAV dataset. Unclear how many lines there are. Micro-injecting aphids with endosymbionts.
+* Good resources: 18 R. padi, 31 S. avenae and 5 M. dirhodum. Also have BYDV-PAV (3) and BYDV-MAV (1) infected populations.
