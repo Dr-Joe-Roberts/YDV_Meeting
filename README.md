@@ -1,7 +1,9 @@
 # YDV Meeting (University of Liverpool: 2024-04-08) 
+### Take-Home Messages
 * Could an opinion piece form an output from this meeting? *Current Opinion in Insect Science* as an option. 
 * Pull together a funding proposal.
 * BYDV-PAS seems to be emerging within the UK (already found in Poland)...
+* [Look into Marie Curie Actions] fellowships(https://marie-sklodowska-curie-actions.ec.europa.eu/).
 
 
 ## Trisna Tungadi (Keele)
@@ -31,3 +33,12 @@
 * Tolerant varieties performed well in field trials.
 * IPM works found low levels of BYDV across field sites despite it being predicted to be a high risk year in 2022. Looking at this again in 2023 with a broader number of partners but replacing risk adverse (4 sprays) with ACroBAT model.
 * ADAS work on a lot of industry funded trials - data cannot be shown due to confidentiality.
+
+## Louise McNamara / Stephen Byrne (Teagasc)
+* Focus their research on plant, virus and aphid to capture as much as possible.
+* Insecticide resistance is known in cereal aphids, like in the UK. This was the primary focus in Max's PhD. Spraying didn't increase resistance across the 50 fields studied. Resistance has not gone up post-neonicotinoids.
+* Are resistant aphids super spreaders for BYDV? No... Infected aphids move differently to uninfected aphids. No impact on transmission or fecundity.
+* New project called ELEVATE with UCD. This aims to link vector and virus strain with virus transmission and yield loss. Develop predictive models for yield loss. This is under current and future climate conditions.
+* Fingerprinting aphid colonies prior to use in projects.
+* BYDV-MAV in all samples, BYDV-PAS and -PAV in 30% but always co-infection in the field. Resources available on GenBank.
+* Developing meta-genomic methods to identify aphid pests (approx. 20). Designing new primers and testing through mock-communities. This is a part of the RapID-PEST project. 
