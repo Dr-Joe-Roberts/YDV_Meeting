@@ -3,7 +3,7 @@
 * Could an opinion piece form an output from this meeting? *Current Opinion in Insect Science* as an option. 
 * Pull together a funding proposal.
 * BYDV-PAS seems to be emerging within the UK (already found in Poland)...
-* [Look into Marie Curie Actions] fellowships(https://marie-sklodowska-curie-actions.ec.europa.eu/).
+* [Look into Marie Curie Actions](https://marie-sklodowska-curie-actions.ec.europa.eu/) fellowships.
 
 
 ## Trisna Tungadi (Keele)
