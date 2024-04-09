@@ -141,6 +141,8 @@ graph TD
 * Key challenges: viral strain diversity, vector prevalence, vector efficiency, climate change, insecticide issues (loss and resistance), plant breeding and genetics, phenotyping platform, diagnostics (ELISA and reliability), transmission, ecological impacts of natural enemies, biopesticides and biostimulants (agroecology), landscape scale, updating old science, agronomy shifts (organic, regenerative, cover cropping, etc.), modelling (first arrival), better decision support tools, robust network for monitoring aphids.
 
 ## Themes
+* Key challenges: viral strain diversity, vector prevalence, vector efficiency, climate change, insecticide issues (loss and resistance), plant breeding and genetics, phenotyping platform, diagnostics (ELISA and reliability), transmission, ecological impacts of natural enemies, biopesticides and biostimulants (agroecology), landscape scale, updating old science, agronomy shifts (organic, regenerative, cover cropping, etc.), modelling (first arrival), better decision support tools, robust network for monitoring aphids.
+  
 ```mermaid
 graph TD
     A[Aphid] -->|transmits| V[Virus]
@@ -160,3 +162,9 @@ graph TD
     E -.->|includes| EN
     E -.->|includes| EM
 ```
+
+## Maya Wardeh (Liverpool)
+* Animal traits can predict what makes it susceptible to a virus and vice versa. This is focused on mammals. Wants to apply existing methods to plants.
+* Three main objectives: (1) risk assessment, (2) uncovering drivers and (3) filling knowledge gaps.
+* Positive skew in much of the data as science tends to only publish positive results.
+* Large focus on creating networks. I am not sure how well this aligns with our network ambitions. Very conceptual science.
