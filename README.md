@@ -5,7 +5,6 @@
 * BYDV-PAS seems to be emerging within the UK (already found in Poland)...
 * Look into [Marie Curie Actions](https://marie-sklodowska-curie-actions.ec.europa.eu/) fellowships.
 
-
 ## Trisna Tungadi (Keele)
 * Endosymbionts are the primary focus.
 * How does endosymbiont infection influence aphid odour profiles? <- is this an alternative diagnostic mechanism / how does this impact biological control?
@@ -50,7 +49,14 @@
 * Have also looked at whether all aphid vector populations equal. Naive way to look at insect pest populations is to assume that they are all the same. Endosymbiont species have an effect, but also endosymbiont strain. Clonal lineage may also have an effect - variable rates of BYDV transmission, particularly for BYDV-PAV. This appears to be the primary focus of Daniels' work at the moment. Recent work indicates that this is not true for R. padi and BYDV-MAV, but is for BYDV-PAV.
 * Maintain a R. padi BYDV-PAV dataset. Unclear how many lines there are. Micro-injecting aphids with endosymbionts.
 * Good resources: 18 R. padi, 31 S. avenae and 5 M. dirhodum. Also have BYDV-PAV (3) and BYDV-MAV (1) infected populations.
-  
+
+## Day 1 Summary
+* The emergence of BYDV-PAS in the UK and its implications, alongside advancements in genotyping and sequencing for understanding strain variations, form significant discussion points.
+* The role of endosymbionts, insecticide resistance, and predictive modelling for pest arrival and transmission efficiency are central to ongoing research efforts.
+* Collaboration opportunities, including those involving computational modelling and genetic research, highlight a multidisciplinary approach to understanding and managing YDV.
+
+<br>
+
 # YDV Meeting (University of Liverpool: 2024-04-09) 
-* Do we need an insect-vectored plant virus network? Yes is the general consensus, but with an initial focus on YDV. This should be across the UK-EU in *phase 2*.
-* 
+* Do we need an insect-vectored plant virus network? Yes is the general consensus, but with an initial focus on YDV. This should be across the UK-EU in *phase 2* along with other viruses.
+* A PhD network might be an effective way to get training.
