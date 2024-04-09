@@ -63,29 +63,63 @@ graph TD
     A --> E(Genetic and Genomic Advances)
     A --> F(Disease Monitoring and Management Tools)
     
-    B --> G{Diagnostic Mechanisms}
-    B --> H{Biological Control Impacts}
+    B --> G(Aphid Odour Profiles)
+    B --> H(Alternative Diagnostic Mechanisms)
+    B --> I(Biological Control Impacts)
     
-    C --> I[Trade-offs]
-    C --> J[Management Strategies]
+    C --> J(Trade-offs Identification)
+    C --> K(Insecticide Resistance Mechanisms)
+    C --> L(Virus Infection Dynamics)
     
-    D --> K[Predictive Models for Aphid Arrival]
-    D --> L[Spatial Competition]
-    D --> M[Parasitoid Control]
+    D --> M(Predictive Modeling with GAMs)
+    D --> N(Spatial Competition Analysis)
+    D --> O(Parasitoid Efficacy in Control)
     
-    E --> N[qPCR and Microfluidics]
-    E --> O[Resistance Breeding]
+    E --> P(Genotyping and Phenotyping)
+    E --> Q(Microfluidics for qPCR)
+    E --> R(Resistance Breeding and Genetic Improvement)
     
-    F --> P[Monitoring Tools Development]
-    F --> Q[Impact of Insecticide Resistance]
-    F --> R[IPM Strategies]
+    F --> S(BYDV Monitoring Tools)
+    F --> T(IPM Strategies and Tools)
+    F --> U(Insecticide Resistance Management)
     
-    style A fill:#f9f,stroke:#333,stroke-width:4px
-    style B fill:#bbf,stroke:#333,stroke-width:2px
-    style C fill:#bbf,stroke:#333,stroke-width:2px
-    style D fill:#bbf,stroke:#333,stroke-width:2px
-    style E fill:#bbf,stroke:#333,stroke-width:2px
-    style F fill:#bbf,stroke:#333,stroke-width:2px
+    G --> V[Impact on Diagnostic Approaches]
+    H --> W[Novel Biological Control Strategies]
+    
+    J --> X[Management Strategy Development]
+    K --> Y[Resistance Management in Aphids]
+    
+    M --> Z[Climate and Environmental Factors]
+    N --> AA[Julia for Computationally Intensive Analysis]
+    
+    P --> BB[Next-Generation Sequencing]
+    Q --> CC[High-Throughput Screening]
+    
+    S --> DD[Utilization of Suction and Water Traps]
+    T --> EE[Development of DSS for Risk and Spray Timing]
+    U --> FF[Study of Resistance Spread Dynamics]
+    
+    style A fill:#ffccf9,stroke:#fff,stroke-width:4px
+    style B fill:#ccccff,stroke:#fff,stroke-width:2px
+    style C fill:#ccccff,stroke:#fff,stroke-width:2px
+    style D fill:#ccccff,stroke:#fff,stroke-width:2px
+    style E fill:#ccccff,stroke:#fff,stroke-width:2px
+    style F fill:#ccccff,stroke:#fff,stroke-width:2px
+    style G fill:#ffffcc,stroke:#fff,stroke-width:1px
+    style H fill:#ffffcc,stroke:#fff,stroke-width:1px
+    style I fill:#ffffcc,stroke:#fff,stroke-width:1px
+    style J fill:#ffcc99,stroke:#fff,stroke-width:1px
+    style K fill:#ffcc99,stroke:#fff,stroke-width:1px
+    style L fill:#ffcc99,stroke:#fff,stroke-width:1px
+    style M fill:#99ffcc,stroke:#fff,stroke-width:1px
+    style N fill:#99ffcc,stroke:#fff,stroke-width:1px
+    style O fill:#99ffcc,stroke:#fff,stroke-width:1px
+    style P fill:#cc99ff,stroke:#fff,stroke-width:1px
+    style Q fill:#cc99ff,stroke:#fff,stroke-width:1px
+    style R fill:#cc99ff,stroke:#fff,stroke-width:1px
+    style S fill:#ff9999,stroke:#fff,stroke-width:1px
+    style T fill:#ff9999,stroke:#fff,stroke-width:1px
+    style U fill:#ff9999,stroke:#fff,stroke-width:1px
 ```
 
 <br>
