@@ -6,6 +6,7 @@
 
 <br>
 
+# Day 1
 ## Trisna Tungadi (Keele)
 * Endosymbionts are the primary focus.
 * How does endosymbiont infection influence aphid odour profiles? <- is this an alternative diagnostic mechanism / how does this impact biological control?
@@ -125,12 +126,7 @@ graph TD
 
 <br>
 
-# YDV Meeting (University of Liverpool: 2024-04-09) 
-## Take-Home Messages
-* There are potentially three papers to write as an outcome from this meeting.
-* Need to secure funding to drive this forward as there is a need to establish a network. 
-
-
+# Day 2
 ## Discussion
 * Do we need an insect-vectored plant virus network? Yes is the general consensus, but with an initial focus on YDV. This should be across the UK-EU in *phase 2* along with other viruses.
 * PhD network might be an effective way to get training. This will involve elements of KTP, but be largely formed from UoL, Keele, HAU, Rothamsted, Teagasc and ADAS.
