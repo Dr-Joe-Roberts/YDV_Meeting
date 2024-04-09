@@ -1,5 +1,5 @@
 # YDV Meeting (University of Liverpool: 2024-04-08) 
-### Take-Home Messages
+## Take-Home Messages
 * Could an opinion piece form an output from this meeting? *Current Opinion in Insect Science* as an option. 
 * Pull together a funding proposal.
 * BYDV-PAS seems to be emerging within the UK (already found in Poland)...
@@ -125,6 +125,11 @@ graph TD
 <br>
 
 # YDV Meeting (University of Liverpool: 2024-04-09) 
+## Take-Home Messages
+* There are potentially three papers to write as an outcome from this meeting.
+* Need to secure funding to drive this forward as there is a need to establish a network. 
+
+
 ## Discussion
 * Do we need an insect-vectored plant virus network? Yes is the general consensus, but with an initial focus on YDV. This should be across the UK-EU in *phase 2* along with other viruses.
 * PhD network might be an effective way to get training. This will involve elements of KTP, but be largely formed from UoL, Keele, HAU, Rothamsted, Teagasc and ADAS.
@@ -133,4 +138,25 @@ graph TD
 * Paper outlining standard operating procedures for characterising aphids used in bioassays (reporting genotype, endosymbionts, resistance, etc.) could be a good output.
 * Paper outlining a roadmap for BYDV management could be a tangible output. Use a traffic light system - for example, using regenerative agriculture.
 * Paper outlining diagnostics and sampling - what works and what doesn't - would be a good output.
-* Key challenges: viral strain diversity, vector prevalence, vector efficiency, climate change, insecticide issues (loss and resistance), plant breeding and genetics, phenotyping platform, diagnostics (ELISA and reliability), transmission, ecological impacts of natural enemies, biopesticides and biostimulants (agroecology), landscape scale, updating old science, agronomy shifts (organic, regenerative, cover cropping, etc.), modelling (first arrival), better decision support tools, robust network for monitoring aphids.    
+* Key challenges: viral strain diversity, vector prevalence, vector efficiency, climate change, insecticide issues (loss and resistance), plant breeding and genetics, phenotyping platform, diagnostics (ELISA and reliability), transmission, ecological impacts of natural enemies, biopesticides and biostimulants (agroecology), landscape scale, updating old science, agronomy shifts (organic, regenerative, cover cropping, etc.), modelling (first arrival), better decision support tools, robust network for monitoring aphids.
+
+## Themes
+```mermaid
+graph TD
+    A[Aphid] -->|transmits| V[Virus]
+    V -->|infects| P[Plant]
+    P -->|hosts| A
+
+    subgraph E[Environment / Landscape]
+    subgraph EN["Natural"]
+    end
+    subgraph EM["Managed"]
+    end
+    A
+    V
+    P
+    end
+
+    E -.->|includes| EN
+    E -.->|includes| EM
+```
