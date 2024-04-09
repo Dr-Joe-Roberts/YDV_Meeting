@@ -50,8 +50,7 @@
 * Have also looked at whether all aphid vector populations equal. Naive way to look at insect pest populations is to assume that they are all the same. Endosymbiont species have an effect, but also endosymbiont strain. Clonal lineage may also have an effect - variable rates of BYDV transmission, particularly for BYDV-PAV. This appears to be the primary focus of Daniels' work at the moment. Recent work indicates that this is not true for R. padi and BYDV-MAV, but is for BYDV-PAV.
 * Maintain a R. padi BYDV-PAV dataset. Unclear how many lines there are. Micro-injecting aphids with endosymbionts.
 * Good resources: 18 R. padi, 31 S. avenae and 5 M. dirhodum. Also have BYDV-PAV (3) and BYDV-MAV (1) infected populations.
-
-
+  
 # YDV Meeting (University of Liverpool: 2024-04-09) 
 * Do we need an insect-vectored plant virus network? Yes is the general consensus, but with an initial focus on YDV. This should be across the UK-EU in *phase 2*.
 * 
