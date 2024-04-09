@@ -130,5 +130,7 @@ graph TD
 * PhD network might be an effective way to get training. This will involve elements of KTP, but be largely formed from UoL, Keele, HAU, Rothamsted, Teagasc and ADAS.
 * Adaptation should be a key theme - future proofing. This could be abiotic (drought, flooding) or biotic (species, clonal diversity, endosymbionts, insecticide resistance).
 * Miscanthus can harbour BYDV and is grown for multiple years (2-3), so may act as a reservoir. Approximately 8000 hectares are grown in the UK for biofuel, predominantly near the Severn and some in Yorkshire.
-* Paper outlining standard operating procedures for characterising aphids used in bioassays (reporting genotype, endosymbionts, resistance, etc) could be a good output.
-* Paper outlining a roadmap for BYDV management could be a tangible output. Use a traffic light system - for example, using regenerative agriculture. 
+* Paper outlining standard operating procedures for characterising aphids used in bioassays (reporting genotype, endosymbionts, resistance, etc.) could be a good output.
+* Paper outlining a roadmap for BYDV management could be a tangible output. Use a traffic light system - for example, using regenerative agriculture.
+* Paper outlining diagnostics and sampling - what works and what doesn't - would be a good output.
+* Key challenges: viral strain diversity, vector prevalence, vector efficiency, climate change, insecticide issues (loss and resistance), plant breeding and genetics, phenotyping platform, diagnostics (ELISA and reliability), transmission, ecological impacts of natural enemies, biopesticides and biostimulants (agroecology), landscape scale, updating old science, agronomy shifts (organic, regenerative, cover cropping, etc.), modelling (first arrival), better decision support tools, robust network for monitoring aphids.    
