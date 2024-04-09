@@ -164,7 +164,10 @@ graph TD
 ```
 
 ## Maya Wardeh (Liverpool)
-* Animal traits can predict what makes it susceptible to a virus and vice versa. This is focused on mammals. Wants to apply existing methods to plants.
+* Animal traits can predict what makes it susceptible to a virus and vice versa. This is focused on mammals. Wants to apply existing methods to plants - is working on a [paper](https://doi.org/10.1101/2023.11.22.568327) in this area.
 * Three main objectives: (1) risk assessment, (2) uncovering drivers and (3) filling knowledge gaps.
 * Positive skew in much of the data as science tends to only publish positive results.
-* Large focus on creating networks. I am not sure how well this aligns with our network ambitions. Very conceptual science.
+* Large focus on creating networks. I am not sure how well this aligns with our network ambitions. Very conceptual science but possibly interesting.
+* Has anyone studied genetic change in BYDV over time? Very few sequences (~50) and only 1 genome.
+* Interesting website detailing [descriptions of plant viruses](https://dpvweb.net/).
+
