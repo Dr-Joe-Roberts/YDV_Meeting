@@ -1,9 +1,10 @@
 # YDV Meeting (University of Liverpool: 2024-04-08) 
 ## Take-Home Messages
-* Could an opinion piece form an output from this meeting? *Current Opinion in Insect Science* as an option. 
-* Pull together a funding proposal.
-* BYDV-PAS seems to be emerging within the UK (already found in Poland)...
+* Pull together a funding proposal. EU doctoral training network (Marie Curie network). UK HEIs - UoL, HAU, Keele; UK RIs - JHI, RRes; EU HEIs/RIs - Teagasc, JKI, INRAE, CSIC, Ghent.
 * Look into [Marie Curie Actions](https://marie-sklodowska-curie-actions.ec.europa.eu/) fellowships.
+* Two phases to the proposed network: (1) UK/EU BYDV network then (2) UK/EU vector-borne disease in agricultural systems network.
+
+<br>
 
 ## Trisna Tungadi (Keele)
 * Endosymbionts are the primary focus.
