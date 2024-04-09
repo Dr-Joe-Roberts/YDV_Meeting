@@ -138,6 +138,7 @@ graph TD
 * Paper outlining standard operating procedures for characterising aphids used in bioassays (reporting genotype, endosymbionts, resistance, etc.) could be a good output.
 * Paper outlining a roadmap for BYDV management could be a tangible output. Use a traffic light system - for example, using regenerative agriculture.
 * Paper outlining diagnostics and sampling - what works and what doesn't - would be a good output.
+* Paper outlining grand challenges/themes/priorities for virus management.
 * Key challenges: viral strain diversity, vector prevalence, vector efficiency, climate change, insecticide issues (loss and resistance), plant breeding and genetics, phenotyping platform, diagnostics (ELISA and reliability), transmission, ecological impacts of natural enemies, biopesticides and biostimulants (agroecology), landscape scale, updating old science, agronomy shifts (organic, regenerative, cover cropping, etc.), modelling (first arrival), better decision support tools, robust network for monitoring aphids.
 
 ## Themes
