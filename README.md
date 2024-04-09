@@ -47,7 +47,7 @@
 * A new review looking at risks to cereal crops. Link [here](https://ecoevorxiv.org/repository/view/6628/).
 * Higher transmission efficiency depending on aphid species and crop variety. This is all qualitative (preliminary) data but will be followed up with quantitative data.
 * Have also looked at whether all aphid vector populations equal. Naive way to look at insect pest populations is to assume that they are all the same. Endosymbiont species have an effect, but also endosymbiont strain. Clonal lineage may also have an effect - variable rates of BYDV transmission, particularly for BYDV-PAV. This appears to be the primary focus of Daniels' work at the moment. Recent work indicates that this is not true for R. padi and BYDV-MAV, but is for BYDV-PAV.
-* Maintain a R. padi BYDV-PAV dataset. Unclear how many lines there are. Micro-injecting aphids with endosymbionts.
+* Maintain an R. padi BYDV-PAV dataset. Unclear how many lines there are. Micro-injecting aphids with endosymbionts.
 * Good resources: 18 R. padi, 31 S. avenae and 5 M. dirhodum. Also have BYDV-PAV (3) and BYDV-MAV (1) infected populations.
 
 ## Day 1 Summary
@@ -55,8 +55,46 @@
 * The role of endosymbionts, insecticide resistance, and predictive modelling for pest arrival and transmission efficiency are central to ongoing research efforts.
 * Collaboration opportunities, including those involving computational modelling and genetic research, highlight a multidisciplinary approach to understanding and managing YDV.
 
+```mermaid
+graph TD
+    A[Aphid Research and Management] --> B(Endosymbiont Influence)
+    A --> C(Virus vs. Insecticide Resistance)
+    A --> D(Landscape and Systems Scale Modeling)
+    A --> E(Genetic and Genomic Advances)
+    A --> F(Disease Monitoring and Management Tools)
+    
+    B --> G{Diagnostic Mechanisms}
+    B --> H{Biological Control Impacts}
+    
+    C --> I[Trade-offs]
+    C --> J[Management Strategies]
+    
+    D --> K[Predictive Models for Aphid Arrival]
+    D --> L[Spatial Competition]
+    D --> M[Parasitoid Control]
+    
+    E --> N[qPCR and Microfluidics]
+    E --> O[Resistance Breeding]
+    
+    F --> P[Monitoring Tools Development]
+    F --> Q[Impact of Insecticide Resistance]
+    F --> R[IPM Strategies]
+    
+    style A fill:#f9f,stroke:#333,stroke-width:4px
+    style B fill:#bbf,stroke:#333,stroke-width:2px
+    style C fill:#bbf,stroke:#333,stroke-width:2px
+    style D fill:#bbf,stroke:#333,stroke-width:2px
+    style E fill:#bbf,stroke:#333,stroke-width:2px
+    style F fill:#bbf,stroke:#333,stroke-width:2px
+```
+
 <br>
 
 # YDV Meeting (University of Liverpool: 2024-04-09) 
+## Discussion
 * Do we need an insect-vectored plant virus network? Yes is the general consensus, but with an initial focus on YDV. This should be across the UK-EU in *phase 2* along with other viruses.
-* A PhD network might be an effective way to get training.
+* PhD network might be an effective way to get training. This will involve elements of KTP, but be largely formed from UoL, Keele, HAU, Rothamsted, Teagasc and ADAS.
+* Adaptation should be a key theme - future proofing. This could be abiotic (drought, flooding) or biotic (species, clonal diversity, endosymbionts, insecticide resistance).
+* Miscanthus can harbour BYDV and is grown for multiple years (2-3), so may act as a reservoir. Approximately 8000 hectares are grown in the UK for biofuel, predominantly near the Severn and some in Yorkshire.
+* Paper outlining standard operating procedures for characterising aphids used in bioassays (reporting genotype, endosymbionts, resistance, etc) could be a good output.
+* Paper outlining a roadmap for BYDV management could be a tangible output. Use a traffic light system - for example, using regenerative agriculture. 
