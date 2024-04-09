@@ -160,6 +160,7 @@ graph TD
     E -.->|includes| EN
     E -.->|includes| EM
 ```
+(ga + gv + gp) + E
 
 ## Maya Wardeh (Liverpool)
 * Animal traits can predict what makes it susceptible to a virus and vice versa. This is focused on mammals. Wants to apply existing methods to plants - is working on a [paper](https://doi.org/10.1101/2023.11.22.568327) in this area.
