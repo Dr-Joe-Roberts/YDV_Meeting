@@ -170,3 +170,7 @@ graph TD
 * Has anyone studied genetic change in BYDV over time? Very few sequences (~50) and only 1 genome.
 * Interesting website detailing [descriptions of plant viruses](https://dpvweb.net/).
 
+## Day 2 Summary
+* A consensus on the need for an insect-vectored plant virus network, initially focusing on Yellow Dwarf Virus (YDV) and later expanding across the UK-EU to include other viruses. A PhD network, incorporating Knowledge Transfer Partnerships (KTP) and involving institutions like UoL, Keele, HAU, Rothamsted, Teagasc, and ADAS, is proposed to enhance training and address key themes like adaptation to future challenges, both abiotic and biotic.
+* Emphasis on developing comprehensive approaches to BYDV management, including the potential role of Miscanthus as a virus reservoir, standardizing operating procedures for characterizing aphids in bioassays, and creating a roadmap for BYDV management using innovative strategies like regenerative agriculture. Proposed outputs include papers on diagnostics, sampling, and outlining grand challenges/themes for virus management.
+* Highlighted challenges encompass viral strain diversity, vector prevalence and efficiency, climate change, issues with insecticides, plant breeding, diagnostics, and the ecological impacts of natural enemies, among others. The discussions also touch upon integrating new research avenues, such as applying animal virus susceptibility methods to plants, to fill knowledge gaps and enhance risk assessment and understanding of virus drivers.
